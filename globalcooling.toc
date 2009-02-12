@@ -1,0 +1,5 @@
+## Interface: 30000
+## Title: GlobalCooling
+## Author: Nifty
+## Notes: Simple addon that shows global cooldown
+core.lua
