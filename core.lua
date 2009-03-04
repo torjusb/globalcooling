@@ -33,6 +33,8 @@ local function OnUpdate()
 	end
 end
 
+--making a difference
+
 local function OnHide()
 	addon:SetScript("OnUpdate", nil)
 	casting = nil
